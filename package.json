@@ -1,0 +1,50 @@
+{
+  "name": "OpenInterpreter",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@chakra-ui/color-mode": "^2.1.11",
+    "@headlessui/react": "^1.7.13",
+    "@headlessui/tailwindcss": "^0.1.2",
+    "@types/node": "18.15.3",
+    "@types/react": "18.0.28",
+    "@types/react-copy-to-clipboard": "^5.0.4",
+    "@types/react-datepicker": "^4.10.0",
+    "@types/react-dom": "18.0.11",
+    "@types/react-input-mask": "^3.0.2",
+    "@types/react-syntax-highlighter": "^15.5.6",
+    "@types/scroll-lock": "^2.1.0",
+    "eslint": "8.36.0",
+    "eslint-config-next": "13.2.4",
+    "next": "13.2.4",
+    "rc-slider": "^10.1.1",
+    "react": "18.2.0",
+    "react-copy-to-clipboard": "^5.1.0",
+    "react-datepicker": "^4.10.0",
+    "react-dom": "18.2.0",
+    "react-hot-toast": "^2.4.0",
+    "react-input-mask": "^3.0.0-alpha.2",
+    "react-responsive": "^9.0.2",
+    "react-select": "^5.7.2",
+    "react-syntax-highlighter": "^15.5.0",
+    "react-textarea-autosize": "^8.4.0",
+    "scroll-lock": "^2.1.5",
+    "tailwind-merge": "^1.10.0",
+    "tailwind-scrollbar": "^3.0.0",
+    "typescript": "4.9.5",
+    "yarn": "^1.22.19"
+  },
+  "devDependencies": {
+    "@rvxlab/tailwind-plugin-ios-full-height": "^1.1.0",
+    "autoprefixer": "^10.4.14",
+    "postcss": "^8.4.21",
+    "postcss-import": "^15.1.0",
+    "tailwindcss": "^3.2.7"
+  }
+}
