@@ -1,8 +1,12 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+This is a template to start working on a friendly UI for the incredible Open Interpreter created by @killian 
+
+https://github.com/KillianLucas
+
+![CleanShot 2023-09-13 at 13 23 22](https://github.com/PopAI33/OIReact/assets/129660155/4e42c2e2-5569-43a4-a71f-d2f681affcce)
+
 
 ## Getting Started
 
-This guide https://OI.notion.site/Project-Setup-af9fa48b613548dd8a5962d126b0265d will help you install Yarn. You can check if Yarn is installed on your PC with the command "yarn --version"
 
 First, run the development server:
 
